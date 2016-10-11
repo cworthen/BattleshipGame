@@ -1,6 +1,6 @@
 //declare variables
 
-var location1=3;
+/*var location1=3;
 var location2=4;
 var location3=5;
 
@@ -9,6 +9,8 @@ var guess;
 var hits = 0;
 var guesses = 0;
 var isSunk = false;
+
+var randomLoc = Math.random(Math.random())*5;
 
 while(isSunk === false){
   guess = prompt("Ready, aim, fire! (enter a number from 1-6):");
@@ -37,4 +39,4 @@ while(isSunk === false){
 
 var stats = "You took " + guesses + " guesses to sink the battleship, "
 + "which means your shooting accuracy was ( 3 / " + guesses + " ).";
-alert(stats);
+alert(stats);*/
